@@ -1,0 +1,77 @@
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(once.jpg)
+    
+}
+.main{
+    border: 3px black;
+    width: 800px;
+    height: 100%;
+    margin-left: 400px;
+}
+
+.lh{
+    color: yellow;
+    background-color: #191970;
+    font-family: 'Times New Roman';
+    margin-left: 30px;
+}
+
+.tab{
+    border: 2px black;
+}
+
+.tab2{
+    border: 1px black;
+}
+
+pre{
+    font-size: 10;
+    font-family: Arial;
+    
+}
+
+.left{
+    background-color: #191970;
+    height: 100%;
+    width: 30%;
+    float:left
+}
+
+.right{
+    background-color: whitesmoke;
+    height: 100%;
+    width: 500px;
+    float:right
+}
+
+.pfp{
+    width: 250px;
+    height: 245px;
+}
+
+.rh{
+    color: whitesmoke;
+    background-color: orange;
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+
+.emj{
+    color: yellow;
+}
+
+span{
+    color: whitesmoke;
+}
+
+.li{
+    color: whitesmoke;
+}
+
+.dot{
+    color: orange;
+}
+
+.black{
+    color: black;
+}
